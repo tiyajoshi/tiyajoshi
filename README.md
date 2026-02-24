@@ -1,7 +1,6 @@
-## Hi there 
+## Hi, I'm Tiya 👋
 
 <!--
-# Hi, I'm Tiya 👋
 
 Final Year Data Science Student  
 📊 Interested in Data science & Real-World Problem Solving  
