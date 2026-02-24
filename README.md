@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 
 
 <!--
-**tiyajoshi/tiyajoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Tiya 👋
 
-Here are some ideas to get you started:
+Final Year Data Science Student  
+📊 Interested in Data science & Real-World Problem Solving  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠 Tech Stack
+- Python, Pandas, NumPy
+- MySQL
+
+## 📫 Connect With Me
+LinkedIn: linkedin.com/in/tiya2211
+Email: tiyajoshi22@gmail.com
+
 -->
